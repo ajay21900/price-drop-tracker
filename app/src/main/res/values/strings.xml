@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Price Drop Tracker</string>
+    <string name="channel_name">Price Drop Alerts</string>
+    <string name="channel_description">Notifications sent when a tracked product drops in price or hits your target</string>
+</resources>
